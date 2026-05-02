@@ -1,0 +1,8 @@
+### to train the model command is used:- 
+
+python src/train_model.py
+
+
+### To run the project 
+
+streamlit run app.py
